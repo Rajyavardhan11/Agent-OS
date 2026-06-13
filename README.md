@@ -1,6 +1,6 @@
 # Agent OS
 
-Agent OS is a production-oriented multi-agent AI workspace. A user submits a complex task, the router selects specialized agents, and the system coordinates planning, research, coding, writing, critique, shared memory, and live progress streaming.
+Agent OS is a production oriented multi agent AI workspace. A user submits a complex task, the router selects specialized agents, and the system coordinates planning, research, coding, writing, critique, shared memory, and live progress streaming.
 
 The backend uses FastAPI, LangGraph, ChromaDB, Ollama, Tavily, and sentence-transformers. The frontend is a dark Next.js dashboard with a live agent timeline, router decision visualization, final markdown output, and a memory panel for previously learned results.
 
